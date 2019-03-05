@@ -1,0 +1,11 @@
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12957', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12009', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12604', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12045', '0', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12779', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12424', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12267', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12297', '1', '0', '1', '0', '0', '1', '0');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12345', '1', '1', '1', '1', '1', '1', '1');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('11464', '0', '1', '1', '1', '1', '1', '0');
+INSERT INTO `indian_railways`.`days` (`train_no`, `sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) VALUES ('12979', '0', '0', '1', '0', '1', '0', '1');

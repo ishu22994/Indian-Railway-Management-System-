@@ -1,0 +1,92 @@
+Mumbai,Ahmedabad,492,12267,First AC,2000,0,2017-03-23,,492.2
+Mumbai,Ahmedabad,492,12267,Second AC,1500,0,2017-03-23,,492.2
+Mumbai,Ahmedabad,492,12267,Third AC,1200,0,2017-03-23,,492.2
+Mumbai,Ahmedabad,492,12267,Economy AC,900,0,2017-03-23,,492.2
+Mumbai,Ahmedabad,492,12267,First AC,2000,2,2017-03-22,,492.2
+Mumbai,Ahmedabad,492,12267,Second AC,1500,1,2017-03-22,,492.2
+Mumbai,Ahmedabad,492,12267,Third AC,1200,2,2017-03-22,,492.2
+Mumbai,Ahmedabad,492,12267,Economy AC,900,0,2017-03-22,,492.2
+Mumbai,Ahmedabad,492,12267,First AC,2000,0,2017-03-24,,492.2
+Mumbai,Ahmedabad,492,12267,Second AC,1500,1,2017-03-24,,492.2
+Mumbai,Ahmedabad,492,12267,Third AC,1200,2,2017-03-24,,492.2
+Mumbai,Ahmedabad,492,12267,Economy AC,900,1,2017-03-24,,492.2
+Ahmedabad,Pune,626,12297,First AC,2660,0,2017-04-02,,625.5
+Ahmedabad,Pune,626,12297,Second AC,1570,0,2017-04-02,,625.5
+Ahmedabad,Pune,626,12297,Third AC,1125,0,2017-04-02,,625.5
+Ahmedabad,Pune,626,12297,Economy AC,950,0,2017-04-02,,625.5
+Ahmedabad,Pune,626,12297,First AC,2660,1,2017-01-31,,625.5
+Ahmedabad,Pune,626,12297,Second AC,1570,1,2017-01-31,,625.5
+Ahmedabad,Pune,626,12297,Third AC,1125,1,2017-01-31,,625.5
+Ahmedabad,Pune,626,12297,Economy AC,950,1,2017-01-31,,625.5
+Ahmedabad,Pune,626,12297,First AC,2660,2,2017-02-04,,625.5
+Ahmedabad,Pune,626,12297,Second AC,1570,0,2017-02-04,,625.5
+Ahmedabad,Pune,626,12297,Third AC,1125,0,2017-02-04,,625.5
+Ahmedabad,Pune,626,12297,Economy AC,950,0,2017-02-04,,625.5
+Ahmedabad,Delhi,936,12957,First AC,3000,0,2017-03-21,,935.6
+Ahmedabad,Delhi,936,12957,Second AC,2500,0,2017-03-21,,935.6
+Ahmedabad,Delhi,936,12957,Third AC,2000,0,2017-03-21,,935.6
+Ahmedabad,Delhi,936,12957,AC Chair car,2500,0,2017-03-21,,935.6
+Ahmedabad,Delhi,936,12957,First AC,3000,1,2017-03-22,,935.6
+Ahmedabad,Delhi,936,12957,Second AC,2500,1,2017-03-22,,935.6
+Ahmedabad,Delhi,936,12957,Third AC,2000,2,2017-03-22,,935.6
+Ahmedabad,Delhi,936,12957,AC Chair car,2500,1,2017-03-22,,935.6
+Ahmedabad,Jaipur,627,12957,First AC,2400,0,2017-03-21,,626.6
+Ahmedabad,Jaipur,627,12957,Second AC,1800,0,2017-03-21,,626.6
+Ahmedabad,Jaipur,627,12957,Third AC,1500,0,2017-03-21,,626.6
+Ahmedabad,Jaipur,627,12957,AC Chair car,1800,0,2017-03-21,,626.6
+Ahmedabad,Jaipur,627,12957,First AC,2400,1,2017-03-22,,626.6
+Ahmedabad,Jaipur,627,12957,Second AC,1800,1,2017-03-22,,626.6
+Ahmedabad,Jaipur,627,12957,Third AC,1500,2,2017-03-22,,626.6
+Ahmedabad,Jaipur,627,12957,AC Chair car,1800,3,2017-03-22,,626.6
+New Delhi,Chandigarh,244,12045,AC Chair car,640,0,2017-04-08,,244
+New Delhi,Chandigarh,244,12045,Executive Chair car,1240,0,2017-04-08,,244
+New Delhi,Chandigarh,244,12045,AC Chair car,640,0,2017-04-06,,244
+New Delhi,Chandigarh,244,12045,Executive Chair car,1240,0,2017-04-06,,244
+New Delhi,Chandigarh,244,12045,AC Chair car,640,0,2017-03-01,,244
+New Delhi,Chandigarh,244,12045,Executive Chair car,1240,0,2017-03-01,,244
+New Delhi,Chandigarh,244,12045,AC Chair car,640,0,2017-03-02,,244
+New Delhi,Chandigarh,244,12045,Executive Chair car,1240,0,2017-03-02,,244
+New Delhi,Chandigarh,244,12045,AC Chair car,640,0,2017-03-03,,244
+New Delhi,Chandigarh,244,12045,Executive Chair car,1240,0,2017-03-03,,244
+New Delhi,Ambala Cantt,199,12045,AC Chair car,560,0,2017-04-08,,199.2
+New Delhi,Ambala Cantt,199,12045,Executive Chair car,1060,0,2017-04-08,,199.2
+New Delhi,Ambala Cantt,199,12045,AC Chair car,560,0,2017-04-06,,199.2
+New Delhi,Ambala Cantt,199,12045,Executive Chair car,1060,2,2017-04-06,,199.2
+New Delhi,Ambala Cantt,199,12045,AC Chair car,560,1,2017-03-01,,199.2
+New Delhi,Ambala Cantt,199,12045,Executive Chair car,1060,2,2017-03-01,,199.2
+New Delhi,Ambala Cantt,199,12045,AC Chair car,560,1,2017-03-02,,199.2
+New Delhi,Ambala Cantt,199,12045,Executive Chair car,1060,1,2017-03-02,,199.2
+New Delhi,Ambala Cantt,199,12045,AC Chair car,560,1,2017-03-03,,199.2
+New Delhi,Ambala Cantt,199,12045,Executive Chair car,1060,1,2017-03-03,,199.2
+Mumbai,Surat,263,12009,AC Chair car,605,0,2017-04-06,,263
+Mumbai,Surat,263,12009,Executive Chair car,1210,0,2017-04-06,,263
+Mumbai,Surat,263,12009,AC Chair car,605,1,2017-04-05,,263
+Mumbai,Surat,263,12009,Executive Chair car,1210,0,2017-04-05,,263
+Mumbai,Surat,263,12009,AC Chair car,605,0,2017-03-02,,263
+Mumbai,Surat,263,12009,Executive Chair car,1210,0,2017-03-02,,263
+Mumbai,Surat,263,12009,AC Chair car,605,0,2017-03-03,,263
+Mumbai,Surat,263,12009,Executive Chair car,1210,0,2017-03-03,,263
+Surat,Vadodara,130,12009,AC Chair car,345,0,2017-04-06,,130
+Surat,Vadodara,130,12009,Executive Chair car,700,0,2017-04-06,,130
+Surat,Vadodara,130,12009,AC Chair car,345,0,2017-04-05,,130
+Surat,Vadodara,130,12009,Executive Chair car,700,0,2017-04-05,,130
+Surat,Vadodara,130,12009,AC Chair car,345,0,2017-03-02,,130
+Surat,Vadodara,130,12009,Executive Chair car,700,0,2017-03-02,,130
+Surat,Vadodara,130,12009,AC Chair car,345,0,2017-03-03,,130
+Surat,Vadodara,130,12009,Executive Chair car,700,0,2017-03-03,,130
+Nadiad,Ahmedabad,46,12009,AC Chair car,150,0,2017-04-06,,45.6
+Nadiad,Ahmedabad,46,12009,Executive Chair car,300,0,2017-04-06,,45.6
+Nadiad,Ahmedabad,46,12009,AC Chair car,150,0,2017-04-05,,45.6
+Nadiad,Ahmedabad,46,12009,Executive Chair car,300,0,2017-04-05,,45.6
+Nadiad,Ahmedabad,46,12009,AC Chair car,150,0,2017-03-02,,45.6
+Nadiad,Ahmedabad,46,12009,Executive Chair car,300,0,2017-03-02,,45.6
+Nadiad,Ahmedabad,46,12009,AC Chair car,150,0,2017-03-03,,45.6
+Nadiad,Ahmedabad,46,12009,Executive Chair car,300,0,2017-03-03,,45.6
+Mumbai,Ahmedabad,493,12009,AC Chair car,1000,0,2017-04-06,,492.8
+Mumbai,Ahmedabad,493,12009,Executive Chair car,2000,0,2017-04-06,,492.8
+Mumbai,Ahmedabad,493,12009,AC Chair car,1000,0,2017-04-05,,492.8
+Mumbai,Ahmedabad,493,12009,Executive Chair car,2000,0,2017-04-05,,492.8
+Mumbai,Ahmedabad,493,12009,AC Chair car,1000,0,2017-03-02,,492.8
+Mumbai,Ahmedabad,493,12009,Executive Chair car,2000,0,2017-03-02,,492.8
+Mumbai,Ahmedabad,493,12009,AC Chair car,1000,0,2017-03-03,,492.8
+Mumbai,Ahmedabad,493,12009,Executive Chair car,2000,0,2017-03-03,,492.8

@@ -1,0 +1,10 @@
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('FIRST AC', '1', '1', '1', '6');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('SECOND AC', '1', '1', '1', '8');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('THIRD AC', '1', '0', '1', '12');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('SLEEPER CLASS', '0', '0', '1', '15');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('CHAIR CAR', '0', '1', '0', '15');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('SECOND SEATING', '0', '0', '0', '15');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('GENERAL', '0', '0', '0', '15');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('EXECUTIVE CHAIR CAR', '1', '1', '1', '6');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('ECONOMY AC', '1', '0', '0', '10');
+INSERT INTO `indian_railways`.`coach_type` (`type_of`, `AC`, `WiFi`, `meal`, `capacity`) VALUES ('AC CHAIR CAR', '1', '1', '0', '10');

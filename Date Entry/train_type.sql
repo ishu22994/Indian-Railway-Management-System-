@@ -1,0 +1,11 @@
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12957', 'Rajdhani');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12009', 'Shatabdi');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12604', 'Superfast');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12045', 'Shatabdi');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12779', 'Superfast');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12424', 'Rajdhani');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12267', 'Duronto');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12297', 'Duronto');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12345', 'Superfast');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('11464', 'Express');
+INSERT INTO `indian_railways`.`train_type` (`train_no`, `train_type`) VALUES ('12979', 'Superfast');
